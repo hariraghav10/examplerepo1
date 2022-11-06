@@ -4,3 +4,7 @@ To Complete now:
 2. Push Website Online
 
 3. Update Github Profile also
+
+testing:
+
+1. Add UI for the ML projects
